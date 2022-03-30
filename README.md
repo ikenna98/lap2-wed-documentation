@@ -17,4 +17,4 @@
 
 #### Query Params:
 - To look up people in our neighbourhood within certain age brackets and with specific household sizes:
-    - `/person?age=""&householdNum=`
+    - `/person?age=20-30&householdNum=5`
