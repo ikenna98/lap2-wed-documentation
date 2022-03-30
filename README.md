@@ -2,7 +2,7 @@
 
 ![image](schema.png)
 
-#### We have three tables:
+#### We have two tables:
 - Person table with:
     - Name, age, house id and householdNum
 - House table:
